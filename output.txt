@@ -1,0 +1,99 @@
+
+What is Lorem Ipsum?
+What : WH Pronoun
+is : Verb
+Lorem : Proper Noun
+Ipsum : Proper Noun
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem : Proper Noun
+Ipsum : Proper Noun
+is : Verb
+simply : Adverb
+dummy : Adjective
+text : Noun
+of : Preposition
+the : Determiner
+printing : Noun
+and : Coordinating Conjunction
+typesetting : Noun
+industry : Noun
+Lorem : Proper Noun
+Ipsum : Proper Noun
+has : Verb
+been : Verb
+the : Determiner
+industry : Noun
+is : Possessive
+standard : Adjective
+dummy : Noun
+text : Noun
+ever : Adverb
+since : Preposition
+the : Determiner
+1500s : Number
+when : WH Adverb
+an : Determiner
+unknown : Adjective
+printer : Noun
+took : Verb
+a : Determiner
+galley : Noun
+of : Preposition
+type : Noun
+and : Coordinating Conjunction
+scrambled : Verb
+it : Personal Pronoun
+to : Preposition
+make : Verb
+a : Determiner
+type : Noun
+specimen : Noun
+book : Noun
+It : Personal Pronoun
+has : Verb
+survived : Verb
+not : Adverb
+only : Adverb
+five : Number
+centuries : Noun
+but : Coordinating Conjunction
+also : Adverb
+the : Determiner
+leap : Noun
+into : Preposition
+electronic : Adjective
+typesetting : Noun
+remaining : Verb
+essentially : Adverb
+unchanged : Adjective
+It : Personal Pronoun
+was : Verb
+popularised : Verb
+in : Preposition
+the : Determiner
+1960s : Noun
+with : Preposition
+the : Determiner
+release : Noun
+of : Preposition
+Letraset : Proper Noun
+sheets : Noun
+containing : Verb
+Lorem : Proper Noun
+Ipsum : Proper Noun
+passages : Noun
+and : Coordinating Conjunction
+more : Adverb
+recently : Adverb
+with : Preposition
+desktop : Noun
+publishing : Noun
+software : Noun
+like : Preposition
+Aldus : Proper Noun
+PageMaker : Proper Noun
+including : Verb
+versions : Noun
+of : Preposition
+Lorem : Proper Noun
+Ipsum : Proper Noun

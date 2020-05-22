@@ -6,3 +6,5 @@ Usage Dependecies :
   - ntlk
 
 Once ntlk data has been downloaded, you can comment download lines for faster results.
+
+For more information please visit https://www.pabbasi.ir/english-part-of-speech-tagger/ .

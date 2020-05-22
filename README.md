@@ -1,5 +1,5 @@
 # English-Part-of-Speech
-A Python program using ntlk
+A Python program using ntlk fir tagging english part of speech ( POST )
 
 Usage Dependecies :
   - pip

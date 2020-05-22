@@ -39,6 +39,7 @@ def process(p):
     }
     return switcher.get(p, p)
 
+#NTLK Data Download
 nltk.download('stopwords')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('punkt')
